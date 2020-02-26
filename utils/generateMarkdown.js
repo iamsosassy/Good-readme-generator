@@ -1,6 +1,6 @@
 function generateMarkdown(data) {
     return `
-# ${data.title} ![GitHub package.json version](https://img.shields.io/github/package-json/v/Iamsosassy/Good-README-Generator)
+# ${data.title} ![GitHub package.json version](https://img.shields.io/github/package-json/v/iamsosassy/Good-README-Generator)
 ${data.description}
 # Tables of Contents
 * [Username](#username)

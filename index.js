@@ -1,10 +1,6 @@
 const inquirer = require("inquirer");
 const fs = require("fs");
-//const axios = require("axios");
-
-//https://api.github.com/users/iamsosassy?client_id=Iv1.67dd2ecaeaf37952&client_secret=de0ace8451d206441f5001cd61a975334fa54758
-
-console.log('hellooo!');
+const axios = require("axios");
 
 inquirer.prompt([{
         type: "input",
